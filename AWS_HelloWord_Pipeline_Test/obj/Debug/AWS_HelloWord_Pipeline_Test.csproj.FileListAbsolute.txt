@@ -1,0 +1,6 @@
+c:\users\mcody\documents\visual studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWS_HelloWord_Pipeline_Test.exe.config
+c:\users\mcody\documents\visual studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWS_HelloWord_Pipeline_Test.exe
+c:\users\mcody\documents\visual studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWS_HelloWord_Pipeline_Test.pdb
+c:\users\mcody\documents\visual studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\obj\Debug\AWS_HelloWord_Pipeline_Test.csprojResolveAssemblyReference.cache
+c:\users\mcody\documents\visual studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\obj\Debug\AWS_HelloWord_Pipeline_Test.exe
+c:\users\mcody\documents\visual studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\obj\Debug\AWS_HelloWord_Pipeline_Test.pdb
