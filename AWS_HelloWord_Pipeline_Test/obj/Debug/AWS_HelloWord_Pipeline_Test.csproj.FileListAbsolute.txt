@@ -4,3 +4,12 @@ c:\users\mcody\documents\visual studio 2015\Projects\AWS_HelloWord_Pipeline_Test
 c:\users\mcody\documents\visual studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\obj\Debug\AWS_HelloWord_Pipeline_Test.csprojResolveAssemblyReference.cache
 c:\users\mcody\documents\visual studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\obj\Debug\AWS_HelloWord_Pipeline_Test.exe
 c:\users\mcody\documents\visual studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\obj\Debug\AWS_HelloWord_Pipeline_Test.pdb
+C:\Users\mcody\Documents\Visual Studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWSSDK.Core.dll
+C:\Users\mcody\Documents\Visual Studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWSSDK.S3.dll
+C:\Users\mcody\Documents\Visual Studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWSSDK.SQS.dll
+C:\Users\mcody\Documents\Visual Studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWSSDK.Core.pdb
+C:\Users\mcody\Documents\Visual Studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWSSDK.Core.xml
+C:\Users\mcody\Documents\Visual Studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWSSDK.S3.pdb
+C:\Users\mcody\Documents\Visual Studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWSSDK.S3.xml
+C:\Users\mcody\Documents\Visual Studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWSSDK.SQS.pdb
+C:\Users\mcody\Documents\Visual Studio 2015\Projects\AWS_HelloWord_Pipeline_Test\AWS_HelloWord_Pipeline_Test\bin\Debug\AWSSDK.SQS.xml
