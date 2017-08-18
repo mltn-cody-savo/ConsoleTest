@@ -1,9 +1,9 @@
 ﻿Set-StrictMode -Version latest
 $ErrorActionPreference = 'Stop'
 
-param(
-	[string] $arg1
-)
+#param(
+#	[string] $arg1
+#)
 
 function execute-externaltool
 (
