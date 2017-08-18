@@ -22,7 +22,7 @@ try{
 	Write-Host "Host.Version:       " $Host.Version
 	Write-Host "Is 64-bit process:  " $([Environment]::Is64BitProcess)
 	Write-Host "Execution policy:   " $(Get-ExecutionPolicy)
-	Write-Host "Arg1:               " $arg1
+	#Write-Host "Arg1:               " $arg1
 
 	#Query a service that does not exist, sc.exe wil return with a non 0 exit code
 	execute-externaltool "Query a non existent service, will return with exit code != 0" {c:\windows\system32\sc.exe query service_does_not_exist }
