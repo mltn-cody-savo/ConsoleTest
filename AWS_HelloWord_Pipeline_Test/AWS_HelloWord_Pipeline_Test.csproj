@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="scripts\psake.psd1" />
     <None Include="scripts\psake_buildCopy.ps1" />
   </ItemGroup>
   <ItemGroup>
